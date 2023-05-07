@@ -1,0 +1,21 @@
+boot magic: ANDROID!
+kernel_size: 14925364
+kernel load address: 0x00008000
+ramdisk size: 13311411
+ramdisk load address: 0x01000000
+second bootloader size: 0
+second bootloader load address: 0x00000000
+kernel tags load address: 0x00000100
+page size: 4096
+os version: 13.0.0
+os patch level: 2023-04
+boot image header version: 2
+product name: 
+command line args: androidboot.usbcontroller=4e00000.dwc3 androidboot.console=ttyMSM0 androidboot.hardware=qcom androidboot.memcg=1 group.memory=nokmem,nosocket loop.max_part=7 service_locator.enable=1 swiotlb=0 cgroup_disable=pressure buildvariant=userdebug
+additional command line args: 
+recovery dtbo size: 2829499
+recovery dtbo offset: 0x0000000001aef000
+boot header size: 1660
+dtb size: 1068339
+dtb address: 0x0000000001f00000
+ramdisk format: gzip
