@@ -1,0 +1,8 @@
+# Aliases extracted from modules themselves.
+alias of:N*T*Cchipone-tddi chipone_tddi_mmi
+alias of:N*T*Cchipone-tddiC* chipone_tddi_mmi
+alias platform:mmi_sys_temp mmi_sys_temp
+alias of:N*T*Cmmi,sys-temp mmi_sys_temp
+alias of:N*T*Cmmi,sys-tempC* mmi_sys_temp
+alias usbfunc:usbnet moto_f_usbnet
+alias fs-exfat exfat
